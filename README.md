@@ -6,5 +6,7 @@ Driver drowsiness and exhaustion are the most common causes of car accidents. Ev
 To measure the degree of exhaustion and drowsiness, a system will be developed that analyses both the driver's face and eyes. The indicators of driver fatigue are thought to be detectable early enough to prevent a possible traffic accident, which could result in serious injuries or fatalities. The system will activate an alert noise or light based on the output, which will alert the driver.
 A deep learning model will be used to classify photos when a human eye is closed or open in order to create this system. As a result, a score will be generated on the basis of fatigue. This score is determined by the length of time the eyelids remain closed. Throughout the driving session, the score is kept. If that score rises above a certain point and reaches a certain threshold, this model will activate automated processes, causing the alarm to start buzzing loudly.
 
+# Architectural Flow Diagram
+An architectural flow diagram is a structure diagram wherein the key parts or functions are depicted by blocks connected by lines that show the relationships between them. Shapes and lines make up the diagram. The shapes reflect concepts, structures, processes, or individuals, while the lines depict data flow or relationships between them. Arrows are used to indicate the direction of data flow.
 
-![image](https://user-images.githubusercontent.com/69338783/158335865-46d47dda-8dfe-4db0-8d6e-1cccd564abbd.png)
+![image](https://user-images.githubusercontent.com/69338783/158336489-6f2fcb74-bac9-4a3c-9c8b-ecd5ae1862ed.png)
